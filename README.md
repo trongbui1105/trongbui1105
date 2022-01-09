@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **other content creators**
 
-- 💬 Ask me about **react, django, nodejs**
+- 💬 Ask me about **React, Django, Nodejs**
 
 - 📫 How to reach me **buiquoctrong110500@gmail.com**
 
