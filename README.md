@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=trongbui1105&show_icons=true&locale=en&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&hide=css,php" alt="trongbui1105" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trongbui1105&theme=synthwave" alt="trongbui1105" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trongbui1105&theme=synthwave" alt="trongbui1105" /></p> -->
