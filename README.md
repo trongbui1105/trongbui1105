@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trongbui1105&label=Profile%20views&color=0e75b6&style=flat" alt="trongbui1105" /> </p>
 
-- 🔭 I’m currently working on **the final-year in Can Tho University**
-
-- 🌱 I’m currently learning **NodeJS**
+- 🔭 I’m a 4 year full stack developer**
 
 - 👯 I’m looking to collaborate on **other content creators**
 
-- 💬 Ask me about **React, Django, NodeJS.**
+- 💬 Ask me about **Golang, Java, React, Django, NodeJS.**
 
 - 📫 How to reach me **buiquoctrong110500@gmail.com**
 
